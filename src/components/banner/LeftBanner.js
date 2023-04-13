@@ -1,6 +1,6 @@
 import React from 'react'
 import { useTypewriter, Cursor } from "react-simple-typewriter";
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaReact } from "react-icons/fa";
+import { FaFacebookF, FaTwitter, FaLinkedinIn, FaReact ,FaJava} from "react-icons/fa";
 import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
 
 const LeftBanner = () => {
@@ -16,7 +16,7 @@ const LeftBanner = () => {
       <div className="flex flex-col gap-5">
         <h4 className=" text-lg font-normal">WELCOME TO MY WORLD</h4>
         <h1 className="text-6xl font-bold text-white">
-          Hi, I'm <span className="text-designColor capitalize">John doe</span>
+          Hi, I'm <span className="text-designColor capitalize">Patrick NSHIZIRUNGU</span>
         </h1>
         <h2 className="text-4xl font-bold text-white">
           a <span>{text}</span>
@@ -58,7 +58,7 @@ const LeftBanner = () => {
               <FaReact />
             </span>
             <span className="bannerIcon">
-              <SiNextdotjs />
+              <FaJava />
             </span>
             <span className="bannerIcon">
               <SiTailwindcss />

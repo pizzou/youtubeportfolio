@@ -17,21 +17,21 @@ const Experience = () => {
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Sr. Software Engineer"
-            subTitle="Google Out Tech - (2017 - Present)"
-            result="USA"
-            des="Google's hiring process is an important part of our culture. Googlers care deeply about their teams and the people who make them up."
+            subTitle="Brain Works Africa - (2020 - Present)"
+            result="RWANDA"
+            des="Brain works's hiring process is an important part of our culture.  care deeply about their teams and the people who make them up."
           />
           <ResumeCard
-            title="Web Developer & Trainer"
-            subTitle="Apple Developer Team - (2012 - 2016)"
-            result="MALAYSIA"
-            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
+            title="IoT"
+            subTitle="Kobe and JAICA Team - (2018 - 2019)"
+            result="rWANDA"
+            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Rwanda isn't easy."
           />
           <ResumeCard
             title="Front-end Developer"
-            subTitle="Nike - (2020 - 2011)"
-            result="Oman"
-            des="The Oman economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
+            subTitle="Klab - (2016 - 2018)"
+            result="Kigali"
+            des="The Klab has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
           />
         </div>
       </div>
